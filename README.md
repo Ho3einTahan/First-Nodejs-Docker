@@ -39,4 +39,5 @@ docker run -p 3001:3000 my-node-app
 EXPOSE 3001
 ```
 
-### All Rights Reserved , Developed By Ho3ein Tahan .
+#### Author
+##### Developed By Ho3ein Tahan
